@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+nav{
+	position: center; 
+    width:500px;
+    height:50px;
+    background: lightgray;  
+    border-radius: 8px;        
+}
+nav ul a {
+	font-size: 32px;
+	padding: 8px 18px;
+}
